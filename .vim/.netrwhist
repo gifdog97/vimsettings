@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/ShunsukeKando/.vim'
-let g:netrw_dirhist_2='/home/ShunsukeKando/cpuex/simu_gifdog97'
-let g:netrw_dirhist_3='/home/ShunsukeKando/cpuex/cpptest'
-let g:netrw_dirhist_4='/home/ShunsukeKando/cpuex/181011-02/min-caml'
