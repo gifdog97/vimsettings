@@ -3,7 +3,6 @@ colorscheme molokai
 set t_Co=256
 
 set clipboard=unnamed,autoselect
-inoremap <silent> jl <ESC>
 
 "文字コードをUFT-8に設定
 set fenc=utf-8
