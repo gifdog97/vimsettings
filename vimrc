@@ -63,6 +63,11 @@ set hlsearch
 " ESC連打でハイライト解除
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
 
+" Fold をしない
+set foldmethod=syntax
+let perl_fold=1
+set foldlevel=100
+
 " NeoBundle
 if 0 | endif
 
